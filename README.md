@@ -2,9 +2,9 @@
 This is a capstone project I am working on, the main goal is to make a fun toy that is inspired by the tamagotchi. I plan to open source this project to allow people to tinker and learn.
 
 # Required materials
-*Raspberry pi Zero 
-*BME 680
-*OLED 
+ * Raspberry pi Zero 
+ * BME 680
+ * OLED 
 
 # Future Ideas
 The doogit product should come with a instruction manual, advertise this product like the 1975 pet rock. <br />
